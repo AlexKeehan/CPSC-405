@@ -1,0 +1,9 @@
+ls -a > test.txt
+cat test.txt
+
+pwd>test.txt
+cat test.txt
+
+gedit test.txt &
+
+test.py
